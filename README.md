@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/186454730_1168313790299816_3179702025897033825_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=19026a&_nc_ohc=IiSHbkGUFjYAX8aw1qC&_nc_ht=scontent.fdac5-2.fna&oh=ac1d020ddd54348e2d1e751e6122bde5&oe=614E77EE)
+![Web Developer]
 
 ## Hi there 👋, I'm Md Abdul Alim
 ### Web Developer
