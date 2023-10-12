@@ -3,13 +3,10 @@ Programmer || Web Developer
 ## Hi there 👋, I'm Md Abdul Alim
 ### Web Developer
 ### Programmer
+### Competitive Programmer
+### Problem Solver
 
-Hello,
-         I'm Md Abdul Alim. I'm a Front-End Developer. I'm an expert at HTML, HTML5, CSS, CSS3, Bootstrap, jQuery, Javascript, etc. God is my Creator. I'm fully confident in myself in this matter. So, You can trust me. I will try my level best and trying to be not disappointed you. There is no doubt that I'm an experienced Front-End Developer. 
-
-Thank You
-
-Skills: HTML / CSS / Bootstrap / JS / Jquery / React / PHP / Wordpress / C / Java
+Skills: React / C / C++ / Java
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Javascript 
