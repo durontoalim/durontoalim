@@ -2,9 +2,7 @@ Programmer || Web Developer
 
 ## Hi there 👋, I'm Md Abdul Alim
 ### Web Developer
-### Programmer
 ### Competitive Programmer
-### Problem Solver
 
 Skills: React / C / C++ / Java
 
