@@ -1,4 +1,4 @@
-Programmer || Web Developer
+Competitive Programmer
 
 ## Hi there 👋, I'm Md Abdul Alim
 ### Web Developer
